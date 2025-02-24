@@ -51,8 +51,8 @@ with col_skills:
 # Project Section
 st.title("Projects")
 st.write("""
-         - [E-Commerce Data Analysis](https://github.com/KinandaKrisandika/python_fundamental/tree/Data_Analyst)
-         - [Financial Data Analysis](https://github.com/KinandaKrisandika/python_fundamental/tree/Data_Analyst)
-         - [Social Media Analysis](https://github.com/KinandaKrisandika/python_fundamental/tree/Data_Analyst)
-         - [Covid-19 Case Analysis](https://github.com/KinandaKrisandika/python_fundamental/tree/Data_Analyst)
+         - [E-Commerce Data Analysis](https://github.com/KinandaKrisandika/Streamlit_Portofolio/blob/main/Project/Project1_Ecommerce_Analysis.py)
+         - [Financial Data Analysis](https://github.com/KinandaKrisandika/Streamlit_Portofolio/blob/main/Project/Project2_Financial_Analysis.py)
+         - [Social Media Analysis](https://github.com/KinandaKrisandika/Streamlit_Portofolio/blob/main/Project/Project3_Social_Media_analysis.py)
+         - [Covid-19 Case Analysis](https://github.com/KinandaKrisandika/Streamlit_Portofolio/blob/main/Project/Project4_Covid19_Cases.py)
          """)
