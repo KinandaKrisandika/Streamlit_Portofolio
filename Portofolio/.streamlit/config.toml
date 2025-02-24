@@ -1,0 +1,15 @@
+[theme]
+# Warna primer yang lebih cerah dan modern
+primaryColor = "#ff6f61"  # Coral Red
+
+# Warna background utama yang lebih elegan
+backgroundColor = "#1e1e2e"  # Dark Purple
+
+# Warna sidebar yang lebih lembut untuk kontras
+secondaryBackgroundColor = "#3a3d56"  # Soft Dark Blue
+
+# Warna teks yang lebih hangat dan ramah
+textColor = "#f8f8f2"  # Off-White
+
+[client]
+toolbarMode = "minimal"
