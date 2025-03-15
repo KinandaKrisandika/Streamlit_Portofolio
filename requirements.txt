@@ -6,3 +6,4 @@ duckdb
 matplotlib
 LinearRegression
 scipy
+seaborn
