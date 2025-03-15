@@ -47,7 +47,7 @@ The dataset contains COVID-19 data spanning from March 2020 to September 2022.
 """, unsafe_allow_html=True)
 
 
-df = pd.read_csv('./assets/covid_19.csv', parse_dates=['Date'])
+df = pd.read_csv('./Assets/covid_19.csv', parse_dates=['Date'])
 
 # Change the string format of column names to make queries easier
 df.columns = (

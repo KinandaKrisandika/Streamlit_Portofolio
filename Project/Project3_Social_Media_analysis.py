@@ -35,7 +35,7 @@ The dataset contains some sample data of social media in 2023.
 </p>
 """, unsafe_allow_html=True)
 
-df = pd.read_csv('./assets/sample_social_media_data.csv', parse_dates=['post_date'])
+df = pd.read_csv('./Assets/sample_social_media_data.csv', parse_dates=['post_date'])
 
 # Change the string format of column names to make queries easier
 df.columns = (

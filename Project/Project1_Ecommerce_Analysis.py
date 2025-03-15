@@ -42,7 +42,7 @@ The data used is information about E-commerce X's customer accounts.
 </p>
 """, unsafe_allow_html=True)
 
-df = pd.read_csv('./assets/ecommerce_data.csv', parse_dates=['Order_Date', 'Delivery_Date'])
+df = pd.read_csv('./Assets/ecommerce_data.csv', parse_dates=['Order_Date', 'Delivery_Date'])
 
 df.loc[df.duplicated()]
 

@@ -43,7 +43,7 @@ The dataset contains Financial data from a company in 2023.
 </p>
 """, unsafe_allow_html=True)
 
-df = pd.read_csv('./assets/financial_data.csv', parse_dates=['Date'])
+df = pd.read_csv('./Assets/financial_data.csv', parse_dates=['Date'])
 
 # Change the string format of column names to make queries easier
 df.columns = (
