@@ -7,3 +7,4 @@ matplotlib
 LinearRegression
 scipy
 seaborn
+folium
