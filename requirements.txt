@@ -8,3 +8,4 @@ LinearRegression
 scipy
 seaborn
 folium
+scikit-learn
